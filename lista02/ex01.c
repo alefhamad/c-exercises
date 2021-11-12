@@ -4,7 +4,7 @@
 
         int a;
 
-        printf("Type a whole numer: ")
+        printf("Type a whole numer: ");
         scanf("%d", &a);
 
         if(a < 0){
