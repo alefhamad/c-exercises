@@ -16,4 +16,5 @@
         else{
             printf("Quotient: %d, Remainder: %d\n", a/b, a%b);
         }
+        return 0;
     }
