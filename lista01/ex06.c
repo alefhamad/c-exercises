@@ -13,5 +13,5 @@
         area = b * h;
         perimeter = 2 * (b + h);
 
-        printf("The area is %d and the perimeter is %d", area, perimeter);
+        printf("The area is %d and the perimeter is %d\n", area, perimeter);
     }
