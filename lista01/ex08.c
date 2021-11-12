@@ -10,7 +10,7 @@
         printf("Type in another number: ");
         scanf("%d", &b);
 
-        p = (a / b) * 100;
+        p = (a * 100) / b;
 
         printf("%d is %d%% of %d\n", a, p, b);
     }
