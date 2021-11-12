@@ -7,9 +7,6 @@
         printf("Type in a number: ");
         scanf("%d", &a);
 
-        if(a % 2 == 0){
-            printf("%d is even\n", a);
-        }else{
-            printf("%d is odd\n", a);
-        }
+        printf("Result: %d\n", a % 2);
+    
     }
